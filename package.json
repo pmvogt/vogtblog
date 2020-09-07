@@ -1,7 +1,7 @@
 {
   "version": "3.0.5",
-  "name": "gatsby-starter-lumen",
-  "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
+  "name": "vogtblog",
+  "description": "Peter Vogt personal vlog",
   "main": "n/a",
   "scripts": {
     "develop": "yarn run clean && gatsby develop",
@@ -21,21 +21,7 @@
   "license": "MIT",
   "keywords": [
     "gatsby",
-    "graphql",
-    "netlify",
-    "netlify-cms",
-    "pagination",
-    "categories",
-    "tags",
-    "prismjs",
-    "static",
-    "lost",
-    "blog",
-    "minimal",
-    "react",
-    "theme",
-    "starter",
-    "disqus"
+    "netlify-cms"
   ],
   "dependencies": {
     "bluebird": "^3.7.2",
